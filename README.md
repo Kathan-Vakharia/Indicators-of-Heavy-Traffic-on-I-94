@@ -1,10 +1,11 @@
-# Indicators-of-Heavy-Traffic-on-I-94
+# Indicators of Heavy Traffic on I-94
 
-![image](https://user-images.githubusercontent.com/51766201/122020474-6d995380-cde2-11eb-8606-068598fbc0e8.png)
+![image](https://user-images.githubusercontent.com/51766201/122021272-265f9280-cde3-11eb-976a-bec57e268925.png)
+
 
 #  Abstract
 
-In this project, we are going to analyse the dataset about the westbound traffic on the **I-94 Interstate Highway**.
+In this project, we are going to analyse the dataset about the westbound traffic on the **[I-94 Interstate Highway](https://en.wikipedia.org/wiki/Interstate_94)**.
 
 The goal of our analysis is to determine a few **indicators** of heavy traffic on **I-94**. These indicators can be weather type, time of the day, time of the week, etc.
 ## Attribution 
